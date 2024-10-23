@@ -1,0 +1,3 @@
+[submodule "projects/auth"]
+	path = projects/auth
+	url = https://github.com/DracJulien/auth.git

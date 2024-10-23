@@ -1,3 +1,11 @@
 [submodule "projects/auth"]
 	path = projects/auth
 	url = https://github.com/DracJulien/auth.git
+
+[submodule "projects/kanban"]
+	path = projects/kanban
+	url = https://github.com/DracJulien/kanban.git
+
+[submodule "projects/isuivcomp"]
+	path = projects/isuivcomp
+	url = https://github.com/DracJulien/isuivcomp.git
